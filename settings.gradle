@@ -1,0 +1,3 @@
+include ':playerlibrary'
+include ':app'
+rootProject.name = "SuperPlayer"
